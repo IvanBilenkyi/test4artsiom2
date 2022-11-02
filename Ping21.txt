@@ -2,3 +2,7 @@ text line 121
 text line 122
 edit line 211
 Add Line from Console
+
+Add Line from Console 2
+
+edit line 311
